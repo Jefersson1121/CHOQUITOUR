@@ -117,7 +117,12 @@ body {
   .btn:hover {
     background-color: #1d6fa5;
   }
-  
+  .footer {
+  background-color: #111;
+  color: #ccc;
+  padding: 40px 20px;
+  font-family: 'Poppins', sans-serif;
+}
   .footer-container {
   display: flex;
   flex-wrap: wrap;
